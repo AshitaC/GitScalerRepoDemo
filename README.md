@@ -1,1 +1,1 @@
-This is a scaler repo demo some update done here
+This is a DVCS GIT and Github scaler repo demo on brnch B.
